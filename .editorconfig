@@ -1,0 +1,11 @@
+
+[*]
+
+# Microsoft .NET properties
+csharp_space_after_keywords_in_control_flow_statements = false
+
+# ReSharper properties
+resharper_align_linq_query = true
+resharper_align_multiline_extends_list = true
+resharper_align_multiline_parameter = true
+resharper_space_between_keyword_and_expression = false
